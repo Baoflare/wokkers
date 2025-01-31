@@ -1,9 +1,6 @@
 <p align="center">
 <a href="https://rivet.gg">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./.github/media/icon-text-white.svg" alt="Rivet">
-<img src="./.github/media/icon-text-black.svg" alt="Rivet">
-</picture>
+<img src="./.github/media/wokkers-text.png" alt="Wokkers">
 </a>
 </p>
 
@@ -100,3 +97,9 @@ rivet deploy
 - [**手册**](https://rivet.gg/docs/self-hosting/manual-deployment): 无需 Docker 即可在您自己的虚拟机上运行
 - [**Rivet云**](https://hub.rivet.gg)：部署 Rivet Actor 的最快、最经济、最可靠的方式，无需任何基础设施维护
 - [**Rivet Enterprise**](https://rivet)
+
+## 最后几点说明
+
+此存储库纯属讽刺。如果您不理解其中的意思，请观看[此视频](https://www.youtube.com/watch?v=Km5XQxRrQvw)。
+
+![Jin Yang Board](./.github/media/board.png)
